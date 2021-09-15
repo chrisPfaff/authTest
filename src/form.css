@@ -1,0 +1,23 @@
+.form-holder {
+  background-color: blanchedalmond;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+input,
+label {
+  display: block;
+}
+label {
+  padding-bottom: 10px;
+}
+
+.password {
+  padding-top: 20px;
+}
+
+.submit {
+  margin-top: 20px;
+}
